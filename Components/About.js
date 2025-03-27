@@ -23,7 +23,7 @@ export default function About() {
                 color: 'black',
                 backgroundColor: 'white'
             })
-            setBtnText("Enable Dark Mode");
+            setBtnText("Enable dark Mode");
 
         }
     }
